@@ -1,0 +1,4 @@
+# Python
+__pycache__/
+*.py[cod]
+create_pptx.py
